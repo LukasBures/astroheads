@@ -1,3 +1,3 @@
-# An example of how to programatically mint NFT before launch event.
+# An example of how to programmatically mint NFT before launch event.
 
-- Used to mint astroheads NFT collection
+- Used to mint Astroheads NFT collection
